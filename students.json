@@ -1,0 +1,32 @@
+[
+    {
+        "roll": "2",
+        "name": "ani",
+        "marks": {
+            "Maths": 60.0,
+            "Python": 40.0,
+            "SQL": 30.0
+        },
+        "attendance": 80.0
+    },
+    {
+        "roll": "3",
+        "name": "raj",
+        "marks": {
+            "Maths": 80.0,
+            "Python": 90.0,
+            "SQL": 80.0
+        },
+        "attendance": 78.0
+    },
+    {
+        "roll": "1",
+        "name": "raj",
+        "marks": {
+            "Maths": 87.0,
+            "Python": 88.0,
+            "SQL": 89.0
+        },
+        "attendance": 97.0
+    }
+]
